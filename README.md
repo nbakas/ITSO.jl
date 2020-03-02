@@ -1,11 +1,11 @@
-# IIS.jl
+# ITSO.jl
 Optimization by Inverse Integral Sampling
 
 >Fast Implementation
 
-* IIS-short.jl for Julia
-* IISshort.m for Octave
-* IIS-short.py for Python
+* ITSO-short.jl for Julia
+* ITSOshort.m for Octave
+* ITSO-short.py for Python
 
 >Validation results:
 
@@ -13,4 +13,4 @@ The complete set of examples of Figure 3 in manuscript may be reproduced by down
 
 >Manuscript
 
-[IIS: A novel Optimization Algorithm, utilizing Inverse Integral Sampling for Stochastic Search](https://arxiv.org/abs/2001.02500)
+[ITSO: a novel Optimization algorithm, utilizing Inverse Transform Sampling for stochastic search](https://arxiv.org/abs/2001.02500)
